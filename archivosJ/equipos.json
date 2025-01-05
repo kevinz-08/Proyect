@@ -1,0 +1,34 @@
+{
+    "usuarios": [
+        {
+            "nombre": "sebas",
+            "tarjeta": "21423432"
+        },
+        {
+            "nombre": "kevin",
+            "tarjeta": "0912384091234"
+        },
+        {
+            "nombre": "kevin",
+            "tarjeta": "65787"
+        },
+        {
+            "nombre": "kevin",
+            "tarjeta": "123"
+        }
+    ],
+    "equipos": [
+        {
+            "nombre": "Atletico Bucaramanga",
+            "jugadores": {
+                "Jugador 1": "sebas",
+                "Jugador 2": "kevin"
+            },
+            "torneo": {
+                "Liga Colombiana": false,
+                "Liga Betplay": false,
+                "Libertadores": false
+            }
+        }
+    ]
+}
